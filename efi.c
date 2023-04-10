@@ -1,5 +1,5 @@
-#include <tinyefi/tinyefi.h>
-#include <tinyefi/types.h>
+#include "efi.h"
+#include "types.h"
 
 static EfiHandle _handle;
 static EfiSystemTable *_st;

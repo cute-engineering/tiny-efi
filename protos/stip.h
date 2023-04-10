@@ -1,7 +1,7 @@
 #ifndef TINYEFI_PROTOS_STIP_H
 #define TINYEFI_PROTOS_STIP_H
 
-#include <tinyefi/types.h>
+#include "../types.h"
 
 #define CHAR_CARRIAGE_RETURN 0x000D
 

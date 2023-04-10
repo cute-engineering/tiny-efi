@@ -1,7 +1,7 @@
 #ifndef TINYEFI_PROTOS_STOP_H
 #define TINYEFI_PROTOS_STOP_H
 
-#include <tinyefi/types.h>
+#include "../types.h"
 
 #define EFI_STOP_GUID                                      \
     {                                                      \

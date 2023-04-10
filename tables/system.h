@@ -1,11 +1,11 @@
 #ifndef TINYEFI_TABLES_SYSTEM_H
 #define TINYEFI_TABLES_SYSTEM_H
 
-#include <tinyefi/protos/stip.h>
-#include <tinyefi/protos/stop.h>
-#include <tinyefi/services/boot.h>
-#include <tinyefi/services/runtime.h>
-#include <tinyefi/tables/config.h>
+#include "../protos/stip.h"
+#include "../protos/stop.h"
+#include "../services/boot.h"
+#include "../services/runtime.h"
+#include "../tables/config.h"
 
 typedef struct
 {

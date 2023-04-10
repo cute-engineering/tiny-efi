@@ -1,8 +1,8 @@
 #ifndef TINYEFI_SERVICES_BOOT_H
 #define TINYEFI_SERVICES_BOOT_H
 
-#include <tinyefi/protos/dpp.h>
-#include <tinyefi/types.h>
+#include "../protos/dpp.h"
+#include "../types.h"
 
 /* Event Types */
 #define EVT_TIMER 0x80000000

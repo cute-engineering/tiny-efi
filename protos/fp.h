@@ -1,7 +1,7 @@
 #ifndef TINYEFI_PROTOS_FP_H
 #define TINYEFI_PROTOS_FP_H
 
-#include <tinyefi/protos/dpp.h>
+#include "../protos/dpp.h"
 
 #define EFI_FILE_INFO_ID                                   \
     (EfiGuid)                                              \

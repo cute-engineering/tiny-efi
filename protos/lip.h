@@ -1,6 +1,6 @@
 #pragma once
 
-#include <tinyefi/tables/system.h>
+#include "../tables/system.h"
 
 #define EFI_LIP_GUID                                       \
     {                                                      \

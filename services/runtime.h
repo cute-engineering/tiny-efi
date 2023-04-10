@@ -1,8 +1,8 @@
 #ifndef TINYEFI_SERVICES_RUNTIME_H
 #define TINYEFI_SERVICES_RUNTIME_H
 
-#include <tinyefi/services/boot.h>
-#include <tinyefi/types.h>
+#include "../types.h"
+#include "boot.h"
 
 #define EFI_OPTIONAL_POINTER 0x00000001
 

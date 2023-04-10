@@ -1,9 +1,9 @@
-#ifndef TINYEFI_TINYEFI_H
-#define TINYEFI_TINYEFI_H
+#ifndef TINYEFI_EFI_H
+#define TINYEFI_EFI_H
 
-#include <tinyefi/console.h>
-#include <tinyefi/protos.h>
-#include <tinyefi/tables.h>
+#include "console.h"
+#include "protos.h"
+#include "tables.h"
 
 void efi_init(EfiHandle handle, EfiSystemTable *st);
 

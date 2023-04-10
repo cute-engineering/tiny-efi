@@ -1,4 +1,4 @@
-#include <tinyefi/tinyefi.h>
+#include "../efi.h"
 
 void __chkstk() { return; }
 

@@ -1,7 +1,7 @@
 #ifndef TINYEFI_TABLES_CONFIG_H
 #define TINYEFI_TABLES_CONFIG_H
 
-#include <tinyefi/types.h>
+#include "../types.h"
 
 #define ACPI2_TABLE_GUID                                   \
     {                                                      \

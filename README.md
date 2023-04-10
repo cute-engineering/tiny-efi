@@ -37,6 +37,3 @@ EfiStatus efi_main(EfiHandle image_handle, EfiSystemTable *st)
 }
 ```
 
-## Example
-
-To compile and run the example, just execute `make run`

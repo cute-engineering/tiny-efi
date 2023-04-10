@@ -1,7 +1,7 @@
 #ifndef TINYEFI_CONSOLE_H
 #define TINYEFI_CONSOLE_H
 
-#include <tinyefi/protos.h>
+#include "protos.h"
 
 void efi_console_reset(void);
 void efi_console_set_attribute(uint64_t attribute);

@@ -1,7 +1,7 @@
 #pragma once
 
-#include <tinyefi/protos/fp.h>
-#include <tinyefi/types.h>
+#include "../protos/fp.h"
+#include "../types.h"
 
 #define EFI_SFSP_REVISION 0x00010000
 

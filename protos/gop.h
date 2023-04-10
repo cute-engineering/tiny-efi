@@ -1,7 +1,7 @@
 #ifndef TINYEFI_PROTOS_GOP_H
 #define TINYEFI_PROTOS_GOP_H
 
-#include <tinyefi/types.h>
+#include "../types.h"
 
 #define EFI_GOP_GUID                                       \
     {                                                      \

@@ -1,0 +1,6 @@
+{
+    "$schema": "https://schemas.cute.engineering/latest/osdk.manifest.component",
+    "id": "tiny-efi",
+    "type": "lib",
+    "description": "Tiny public domain EFI library"
+}

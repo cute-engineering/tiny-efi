@@ -1,7 +1,7 @@
 #ifndef TINYEFI_PROTOS_DPP_H
 #define TINYEFI_PROTOS_DPP_H
 
-#include <tinyefi/types.h>
+#include "../types.h"
 
 #define EFI_DPP_GUID                                       \
     (EfiGuid)                                              \
